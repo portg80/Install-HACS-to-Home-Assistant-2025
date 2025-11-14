@@ -3,6 +3,7 @@
 
 # Добавляем HACS в Home Assistant
 Дополнение к:
+
 [Получаем доступ по ssh к серверу Home Assistant на HassOS - У Павла!](https://psenyukov.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d0%bc-%d0%b4%d0%be%d1%81%d1%82%d1%83%d0%bf-%d0%bf%d0%be-ssh-%d0%ba-%d1%81%d0%b5%d1%80%d0%b2%d0%b5%d1%80%d1%83-home-assistant-%d0%bd%d0%b0-hassos/)
 
 [Добавляем HACS в Home Assistant - IO Home](https://io-home.ru/home-assistant/integrations/dobavljaem-hacs-v-home-assistant/)
